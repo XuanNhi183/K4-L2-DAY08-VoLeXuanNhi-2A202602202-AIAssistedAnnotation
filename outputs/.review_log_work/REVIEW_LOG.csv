@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0182.jpg,xe bị cắt ở mép dưới bên phải,added,Bổ sung khung cho phần xe còn nhìn thấy trong ảnh.
+1,frame_0107.jpg,khung gộp hai xe có đèn hậu ở giữa ảnh,deleted,Xóa khung gộp để mỗi xe có một khung riêng.
+1,frame_0099.jpg,xe tối có hai đèn hậu ở nửa phải ảnh,edited,Mở rộng cạnh trái của khung để bao đủ phần thân xe nhìn thấy.
